@@ -22,6 +22,11 @@
 191.98.192.222
 Guatemala
 
+(20 puntos) ¿Cuál es el output de éste programa de Brainf*ck
+.bf ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+[bf] Executing as Brainfuck code...
+Hello World!
+
 (5 puntos) Generen un código qr (ascii) para la frase:
 .qr May the command line live forever
 ##################################################################
