@@ -11,6 +11,11 @@
                 ||----w |
                 ||     ||
 
+(10 puntos) Traduzcan la siguiente frase a clave morse:
+.morse ye shall be as gods
+-.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
+
+
 
 (5 puntos) ¿Cuál es la ubicación de su ip?¿Y su ip pública?
 .ipaddr
