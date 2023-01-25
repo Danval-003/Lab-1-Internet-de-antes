@@ -10,4 +10,9 @@
             (__)\       )\/\
                 ||----w |
                 ||     ||
-                
+
+
+(5 puntos) ¿Cuál es la ubicación de su ip?¿Y su ip pública?
+.ipaddr
+191.98.192.222
+Guatemala
